@@ -10,8 +10,6 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-coffeescript" % "1.0.0")
 
 addSbtPlugin("com.typesafe.sbt" % "sbt-less" % "1.0.0")
 
-addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "1.5.2")
-
 addSbtPlugin("com.eed3si9n" % "sbt-buildinfo" % "0.3.1")
 
 addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.1.0")
